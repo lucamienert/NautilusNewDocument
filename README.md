@@ -2,7 +2,7 @@
 
 ## Description
 
-Allows you to create a new document threw Nautilus via right click on `New Document`
+Allows you to create a new document through Nautilus via right click on `New Document`
 
 Works with GNOME Shell 3.38.3 and above!
 
